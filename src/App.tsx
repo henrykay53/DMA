@@ -70,7 +70,7 @@ import PurchaseDoc from './pages/Archives/pages/PurchaseDoc'
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/DMA">
       <Routes>
 
 
