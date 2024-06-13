@@ -1,0 +1,34 @@
+.noscroll {
+  position: fixed;
+  width: 100%;
+}
+
+.navigation {
+  position: relative;
+  display: inline-block;
+}
+
+.navigation:visited {
+  background-color: green;
+}
+
+
+.nav-content {
+  display: block;
+  min-width: 100%;  
+  margin-left: -8px;
+  z-index: 1;
+}
+
+
+.search {
+    width: 360px;
+}
+
+/* .flex {
+  display: flex;
+  align-items: center;
+} */
+ 
+
+
