@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DMA/static/css/main.a4bd509a.css",
+    "main.js": "/DMA/static/js/main.a07c0316.js",
+    "static/media/heroIllustration.png": "/DMA/static/media/heroIllustration.0928acdae945afdd5753.png",
+    "static/media/section2.png": "/DMA/static/media/section2.f8de702cd553c6dddc79.png",
+    "static/media/skater.png": "/DMA/static/media/skater.4fc7c2e4f5431de7764e.png",
+    "static/media/coin.svg": "/DMA/static/media/coin.7ea9f966934fa46131a4a022781a950b.svg",
+    "static/media/salesChart.png": "/DMA/static/media/salesChart.c17d6e3e9abe94773025.png",
+    "static/media/staff.svg": "/DMA/static/media/staff.2798b22d2ffc79c6072d2b9ec8fee05b.svg",
+    "static/media/operations.svg": "/DMA/static/media/operations.f986284f0026621d9721037b232ff369.svg",
+    "index.html": "/DMA/index.html",
+    "static/media/support.svg": "/DMA/static/media/support.7b57efe7f8d576b2f3e2f371b8f10aa5.svg",
+    "static/media/money.svg": "/DMA/static/media/money.a436a4993310cbf5886f804739f1b1a9.svg",
+    "static/media/marketing.svg": "/DMA/static/media/marketing.7a916973b4a5c3e5d3b9784e017c25f9.svg",
+    "main.a4bd509a.css.map": "/DMA/static/css/main.a4bd509a.css.map",
+    "main.a07c0316.js.map": "/DMA/static/js/main.a07c0316.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4bd509a.css",
+    "static/js/main.a07c0316.js"
+  ]
+}
