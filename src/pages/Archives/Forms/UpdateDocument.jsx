@@ -313,7 +313,7 @@ placeholder-black"
           {isLoading ? (
             <Spinner className="fill-primary mx-auto" color="accent" />
           ) : (
-            <>Edit</>
+            <>Save</>
           )}
         </button>
       </form>

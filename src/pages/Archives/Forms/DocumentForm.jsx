@@ -156,7 +156,7 @@ const DocumentForm = ({ close, closeForm }) => {
             onChange={archiveTypeHandler}
             className="p-3 my-2 w-[100%] ring-1 ring-gray-400 rounded-sm focus:outline-none focus:ring-2 focus:ring-accent focus:border-transparent placeholder-black"
           >
-            <option value="select">Select Document Type</option>
+            <option value="select">File Type</option>
             <option value="0">Contracts</option>
             <option value="1">Letters</option>
             <option value="2">Reports</option>
@@ -180,7 +180,7 @@ const DocumentForm = ({ close, closeForm }) => {
             onChange={archiveMediaTypeHandler}
             className="p-3 my-2 w-[100%] ring-1 ring-gray-400 rounded-sm focus:outline-none focus:ring-2 focus:ring-accent focus:border-transparent placeholder-black"
           >
-            <option value="select">Select Document Format</option>
+            <option value="select">Media Type</option>
             <option value="0">Document</option>
             <option value="1">Image</option>
             <option value="2">Video</option>
@@ -237,7 +237,7 @@ placeholder-black"
 
         <label htmlFor="Expiry">
           <div className="flex gap-2">
-            Expiration Date<div className="text-red-500">*</div>
+            Expiry Date<div className="text-red-500">*</div>
           </div>
 
           <input
